@@ -1,0 +1,30 @@
+{
+  "name": "@xuer/eslint-config-base",
+  "version": "1.0.0",
+  "description": "the base eslint-config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "xuer <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
