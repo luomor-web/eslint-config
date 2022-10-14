@@ -1,6 +1,6 @@
 {
   "name": "@liuxingyu521/eslint-config-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the base eslint-config",
   "main": "index.js",
   "files": [
