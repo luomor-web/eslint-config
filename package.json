@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "lint": "eslint .",
-    "release": "release:version && release:publish",
+    "release": "pnpm release:version && pnpm release:publish",
     "release:version": "bumpp package.json packages/*/package.json --execute=\"pnpm changelog\"",
     "release:publish": "pnpm publish -r --access public",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
