@@ -2,18 +2,15 @@
   "name": "@liuxingyu521/eslint-config-base",
   "version": "1.0.2",
   "description": "the base eslint-config",
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "eslint-config"
-  ],
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "main": "index.js",
   "license": "MIT",
+  "files": ["index.js"],
+  "keywords": ["eslint-config"],
   "dependencies": {
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsonc": "^2.4.0",
     "eslint-plugin-n": "^15.3.0",
     "eslint-plugin-promise": "^6.1.0"
   },

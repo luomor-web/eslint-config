@@ -2,15 +2,11 @@
   "name": "@liuxingyu521/eslint-config",
   "version": "1.0.2",
   "description": "the main eslint-config",
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "eslint-config"
-  ],
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "main": "index.js",
   "license": "MIT",
+  "files": ["index.js"],
+  "keywords": ["eslint-config"],
   "dependencies": {
     "@liuxingyu521/eslint-config-base": "workspace:*"
   },

@@ -1,4 +1,3 @@
 {
-  "extends": 
-  ["@liuxingyu521/eslint-config-base"]
+  "extends": ["@liuxingyu521/eslint-config-base"]
 }
