@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "eslint .",
     "release": "pnpm release:version && pnpm release:publish",
-    "release:version": "bumpp package.json packages/*/package.json --execute=\"pnpm changelog\"",
+    "release:version": "bumpp package.json packages/*/package.json --execute=\"pnpm changelog\" --all",
     "release:publish": "pnpm publish -r --access public",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "test": "echo \"Error: no test specified\" && exit 1"
