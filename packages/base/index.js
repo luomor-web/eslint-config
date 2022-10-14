@@ -5,6 +5,10 @@ module.exports = {
     node: true,
   },
   extends: [
-    'standard'
-  ]
+    'standard',
+  ],
+  rules: {
+    // common
+    'comma-dangle': ['error', 'always-multiline'],
+  },
 }
