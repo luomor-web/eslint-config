@@ -1,10 +1,6 @@
 {
   "schema": "example",
-  "arr": [
-    1,
-    2,
-    3
-  ],
+  "arr": [1],
   "object": {
     "a": 1,
     "b": 2

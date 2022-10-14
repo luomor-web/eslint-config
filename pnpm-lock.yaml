@@ -4,12 +4,12 @@ importers:
 
   .:
     specifiers:
-      '@liuxingyu521/eslint-config-base': workspace:*
+      '@liuxingyu521/eslint-config': workspace:*
       bumpp: ^8.2.1
       conventional-changelog-cli: ^2.2.2
       eslint: ^8.25.0
     devDependencies:
-      '@liuxingyu521/eslint-config-base': link:packages/base
+      '@liuxingyu521/eslint-config': link:packages/main
       bumpp: 8.2.1
       conventional-changelog-cli: 2.2.2
       eslint: 8.25.0

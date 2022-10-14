@@ -18,8 +18,7 @@ module.exports = {
         'jsonc/array-bracket-newline': ['error', { multiline: true, minItems: null }],
         'jsonc/array-element-newline': ['error', 'always'],
         'jsonc/object-curly-newline': ['error', { consistent: true }],
-        'jsonc/object-property-newline': ['error', { allowAllPropertiesOnSameLine: false },
-        ],
+        'jsonc/object-property-newline': ['error', { allowAllPropertiesOnSameLine: false }],
       },
     },
     {
