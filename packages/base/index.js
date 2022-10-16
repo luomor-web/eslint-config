@@ -7,6 +7,14 @@ module.exports = {
   extends: [
     'standard',
     'plugin:jsonc/recommended-with-jsonc',
+    'plugin:yml/standard',
+  ],
+  ignorePatterns: [
+    '*.min.*',
+    'dist',
+    'package-lock.json',
+    'pnpm-lock.yaml',
+    'yarn.lock',
   ],
   overrides: [
     {
@@ -79,6 +87,10 @@ module.exports = {
           },
         ],
       },
+    },
+    {
+      files: ['*.yaml', '*.yml'],
+      parser: 'yaml-eslint-parser',
     },
   ],
   rules: {

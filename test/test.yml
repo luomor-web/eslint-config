@@ -1,0 +1,15 @@
+title: xxx
+icon: apple
+subMenu:
+  - title: xxx
+    links:
+      - title: xxx
+        description: ""
+        logo: icon.png
+      - title: xxx
+        logo: ""
+  - title: xxx
+    links:
+      - title: xxx
+        description: balabala
+        logo: "\"xxx\""
