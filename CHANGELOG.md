@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/liuxingyu521/eslint-config/compare/v1.0.3...v1.0.4) (2022-10-16)
+
+
+### Features
+
+* add yml file lint rule ([317a354](https://github.com/liuxingyu521/eslint-config/commit/317a3541980332f63fed16e298717b15b80fa2dc))
+
+
+
 ## [1.0.3](https://github.com/liuxingyu521/eslint-config/compare/v1.0.2...v1.0.3) (2022-10-14)
 
 

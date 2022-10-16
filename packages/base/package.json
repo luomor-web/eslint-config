@@ -1,12 +1,16 @@
 {
   "name": "@liuxingyu521/eslint-config-base",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "the base eslint-config",
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
   "main": "index.js",
   "license": "MIT",
-  "files": ["index.js"],
-  "keywords": ["eslint-config"],
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "eslint-config"
+  ],
   "dependencies": {
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
