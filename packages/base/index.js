@@ -15,6 +15,8 @@ module.exports = {
     'package-lock.json',
     'pnpm-lock.yaml',
     'yarn.lock',
+    'logs',
+    'coverage',
   ],
   overrides: [
     {
