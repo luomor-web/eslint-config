@@ -1,0 +1,23 @@
+{
+  "name": "@liuxingyu521/eslint-config-ts",
+  "version": "1.0.4",
+  "description": "the eslint-config for typescript",
+  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["index.js"],
+  "keywords": ["eslint-config"],
+  "dependencies": {
+    "@liuxingyu521/eslint-config-base": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "typescript": "^4.8.4"
+  },
+  "peerDependencies": {
+    "eslint": "^8.25.0",
+    "typescript": "^3"
+  }
+}

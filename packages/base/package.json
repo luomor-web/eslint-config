@@ -5,12 +5,8 @@
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
   "main": "index.js",
   "license": "MIT",
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "eslint-config"
-  ],
+  "files": ["index.js"],
+  "keywords": ["eslint-config"],
   "dependencies": {
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
