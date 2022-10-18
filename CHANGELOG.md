@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/liuxingyu521/eslint-config/compare/v1.0.4...v1.0.5) (2022-10-18)
+
+
+### Features
+
+* add typescript support ([88fa85c](https://github.com/liuxingyu521/eslint-config/commit/88fa85ced59055fc816e3b914116b82995dd6df9))
+
+
+
 ## [1.0.4](https://github.com/liuxingyu521/eslint-config/compare/v1.0.3...v1.0.4) (2022-10-16)
 
 
