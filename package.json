@@ -1,6 +1,6 @@
 {
   "name": "@liuxingyu521/eslint-config-monorepo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": true,
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "release": "pnpm release:check && pnpm release:version && pnpm release:publish",
-    "release:check": "pnpm lint",
+    "release:check": "pnpm lint:fix",
     "release:version": "bumpp package.json packages/*/package.json --execute=\"pnpm changelog\" --all",
     "release:publish": "pnpm publish -r --access public",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",

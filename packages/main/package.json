@@ -1,6 +1,6 @@
 {
   "name": "@liuxingyu521/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "the main eslint-config",
   "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
   "main": "index.js",

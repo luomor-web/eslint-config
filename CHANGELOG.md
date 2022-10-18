@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/liuxingyu521/eslint-config/compare/v1.0.5...v1.0.6) (2022-10-18)
+
+
+### Bug Fixes
+
+* ignore pattern update ([a5a5e1b](https://github.com/liuxingyu521/eslint-config/commit/a5a5e1b6b0de20f99f1693006c45d52b2929c522))
+
+
+
 ## [1.0.5](https://github.com/liuxingyu521/eslint-config/compare/v1.0.4...v1.0.5) (2022-10-18)
 
 
