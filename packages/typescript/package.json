@@ -22,6 +22,6 @@
   },
   "peerDependencies": {
     "eslint": "^8.25.0",
-    "typescript": "^3"
+    "typescript": ">=3"
   }
 }
