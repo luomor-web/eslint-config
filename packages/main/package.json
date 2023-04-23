@@ -1,8 +1,8 @@
 {
-  "name": "@liuxingyu521/eslint-config",
+  "name": "@luomor-web/eslint-config",
   "version": "1.0.7",
   "description": "the main eslint-config",
-  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "author": "luomor-web <xuj_power@qq.com> (https://github.com/luomor-web)",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -12,7 +12,7 @@
     "eslint-config"
   ],
   "dependencies": {
-    "@liuxingyu521/eslint-config-ts": "workspace:*"
+    "@luomor-web/eslint-config-ts": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.25.0"

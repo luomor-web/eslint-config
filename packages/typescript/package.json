@@ -1,8 +1,8 @@
 {
-  "name": "@liuxingyu521/eslint-config-ts",
+  "name": "@luomor-web/eslint-config-ts",
   "version": "1.0.7",
   "description": "the eslint-config for typescript",
-  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "author": "luomor-web <xuj_power@qq.com> (https://github.com/luomor-web)",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -12,7 +12,7 @@
     "eslint-config"
   ],
   "dependencies": {
-    "@liuxingyu521/eslint-config-base": "workspace:*",
+    "@luomor-web/eslint-config-base": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "@typescript-eslint/parser": "^5.40.1"
   },

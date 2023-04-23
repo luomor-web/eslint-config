@@ -4,13 +4,13 @@ importers:
 
   .:
     specifiers:
-      '@liuxingyu521/eslint-config': workspace:*
+      '@luomor-web/eslint-config': workspace:*
       bumpp: ^8.2.1
       conventional-changelog-cli: ^2.2.2
       eslint: ^8.25.0
       typescript: ^4.8.4
     devDependencies:
-      '@liuxingyu521/eslint-config': link:packages/main
+      '@luomor-web/eslint-config': link:packages/main
       bumpp: 8.2.1
       conventional-changelog-cli: 2.2.2
       eslint: 8.25.0
@@ -37,22 +37,22 @@ importers:
 
   packages/main:
     specifiers:
-      '@liuxingyu521/eslint-config-ts': workspace:*
+      '@luomor-web/eslint-config-ts': workspace:*
       eslint: ^8.25.0
     dependencies:
-      '@liuxingyu521/eslint-config-ts': link:../typescript
+      '@luomor-web/eslint-config-ts': link:../typescript
     devDependencies:
       eslint: 8.25.0
 
   packages/typescript:
     specifiers:
-      '@liuxingyu521/eslint-config-base': workspace:*
+      '@luomor-web/eslint-config-base': workspace:*
       '@typescript-eslint/eslint-plugin': ^5.40.1
       '@typescript-eslint/parser': ^5.40.1
       eslint: ^8.25.0
       typescript: ^4.8.4
     dependencies:
-      '@liuxingyu521/eslint-config-base': link:../base
+      '@luomor-web/eslint-config-base': link:../base
       '@typescript-eslint/eslint-plugin': 5.40.1_ukgdydjtebaxmxfqp5v5ulh64y
       '@typescript-eslint/parser': 5.40.1_z4bbprzjrhnsfa24uvmcbu7f5q
     devDependencies:
