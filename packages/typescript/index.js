@@ -1,8 +1,8 @@
-const base = require('@luomor-web/eslint-config-base')
+const base = require('@luomor/eslint-config-base')
 
 module.exports = {
   extends: [
-    '@luomor-web/eslint-config-base',
+    '@luomor/eslint-config-base',
     'plugin:@typescript-eslint/recommended',
   ],
   plugins: ['@typescript-eslint'],

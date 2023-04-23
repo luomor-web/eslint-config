@@ -1,8 +1,8 @@
 {
-  "name": "@luomor-web/eslint-config-base",
+  "name": "@luomor/eslint-config-base",
   "version": "1.0.7",
   "description": "the base eslint-config",
-  "author": "luomor-web <xuj_power@qq.com> (https://github.com/luomor-web)",
+  "author": "luomor <1097692918@qq.com> (https://github.com/luomor)",
   "main": "index.js",
   "license": "MIT",
   "files": [

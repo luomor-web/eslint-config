@@ -1,8 +1,8 @@
 {
-  "name": "@luomor-web/eslint-config-monorepo",
+  "name": "@luomor/eslint-config-monorepo",
   "version": "1.0.7",
   "private": true,
-  "author": "luomor-web <xuj_power@qq.com> (https://github.com/luomor-web)",
+  "author": "luomor <1097692918@qq.com> (https://github.com/luomor)",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
@@ -15,10 +15,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@luomor-web/eslint-config": "workspace:*",
+    "@luomor/eslint-config": "workspace:*",
     "bumpp": "^8.2.1",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.25.0",
     "typescript": "^4.8.4"
-  }
+  },
+  "description": "[![npm](https://img.shields.io/npm/v/@luomor/eslint-config?style=flat-square)](https://www.npmjs.com/package/@luomor/eslint-config)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luomor-web/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luomor-web/eslint-config/issues"
+  },
+  "homepage": "https://github.com/luomor-web/eslint-config#readme"
 }
