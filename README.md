@@ -1,28 +1,28 @@
-# @luomor/eslint-config
+# @yiluxiangbei/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@luomor/eslint-config?style=flat-square)](https://www.npmjs.com/package/@luomor/eslint-config)
+[![npm](https://img.shields.io/npm/v/@yiluxiangbei/eslint-config?style=flat-square)](https://www.npmjs.com/package/@yiluxiangbei/eslint-config)
 
 my eslint-config preset
 
-- @luomor/eslint-config
-- @luomor/eslint-config-base
+- @yiluxiangbei/eslint-config
+- @yiluxiangbei/eslint-config-base
 
 ## Usage
 
 ### Install
 
 ```bash
-pnpm add -D eslint @luomor/eslint-config
+pnpm add -D eslint @yiluxiangbei/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@luomor"
+  "extends": "@yiluxiangbei"
 }
 ```
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2022-PRESENT [luomor](https://github.com/luomor)
+[MIT](./LICENSE) License &copy; 2022-PRESENT [yiluxiangbei](https://github.com/luomor-web)
