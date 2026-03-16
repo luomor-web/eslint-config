@@ -1,3 +1,23 @@
+## 2.0.1 (2026-03-16)
+
+
+### Bug Fixes
+
+* ignore pattern update ([a5a5e1b](https://github.com/luomor-web/eslint-config/commit/a5a5e1b6b0de20f99f1693006c45d52b2929c522))
+
+
+### Features
+
+* add json file lint rule ([690dbd9](https://github.com/luomor-web/eslint-config/commit/690dbd9b3508ecf7e4042ae5f87bfc816fc71917))
+* add typescript support ([88fa85c](https://github.com/luomor-web/eslint-config/commit/88fa85ced59055fc816e3b914116b82995dd6df9))
+* add yml file lint rule ([317a354](https://github.com/luomor-web/eslint-config/commit/317a3541980332f63fed16e298717b15b80fa2dc))
+* eslint falt config ([5f3beee](https://github.com/luomor-web/eslint-config/commit/5f3beeecd125c52417516d6aa7eee01ca4c47d93))
+* init project ([2764bbe](https://github.com/luomor-web/eslint-config/commit/2764bbe524f3375b0ffd6a63a0ae1e208da6ae98))
+* update dependencies ([e919574](https://github.com/luomor-web/eslint-config/commit/e9195742dda7c100b8c016d1aa247b91b3e3174c))
+* update readme ([efb2ab3](https://github.com/luomor-web/eslint-config/commit/efb2ab3fb20078d83e37a5b71a26404605e61bc6))
+
+
+
 # [2.0.0](https://github.com/liuxingyu521/esling-config/compare/v1.1.0...v2.0.0) (2024-05-03)
 
 
