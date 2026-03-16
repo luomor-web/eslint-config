@@ -1,6 +1,6 @@
 {
   "name": "@yiluxiangbei/eslint-config-stylistic",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "the stylistic eslint-config",
   "author": "yiluxiangbei <1097692918@qq.com> (https://github.com/luomor-web)",
   "main": "index.js",
