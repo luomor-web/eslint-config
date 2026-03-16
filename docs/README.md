@@ -10,4 +10,6 @@ npm publish -r --access public
 
 nvm use v18.20.5
 pnpm install
+npm run release:version
+npm run release:publish
 ```
