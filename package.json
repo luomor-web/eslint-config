@@ -1,8 +1,8 @@
 {
-  "name": "@liuxingyu521/eslint-config-monorepo",
+  "name": "@yiluxiangbei/eslint-config-monorepo",
   "version": "2.0.0",
   "private": true,
-  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "author": "yiluxiangbei <1097692918@qq.com> (https://github.com/luomor-web)",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@liuxingyu521/eslint-config": "workspace:*",
+    "@yiluxiangbei/eslint-config": "workspace:*",
     "bumpp": "^9.4.1",
     "conventional-changelog-cli": "^4.1.0",
     "eslint": "^9.1.1",

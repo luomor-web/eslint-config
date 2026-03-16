@@ -1,8 +1,8 @@
 {
-  "name": "@liuxingyu521/eslint-config-stylistic",
+  "name": "@yiluxiangbei/eslint-config-stylistic",
   "version": "2.0.0",
   "description": "the stylistic eslint-config",
-  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "author": "yiluxiangbei <1097692918@qq.com> (https://github.com/luomor-web)",
   "main": "index.js",
   "type": "module",
   "license": "MIT",

@@ -1,8 +1,8 @@
 {
-  "name": "@liuxingyu521/eslint-config-json",
+  "name": "@yiluxiangbei/eslint-config-json",
   "version": "2.0.0",
   "description": "my json eslint-config",
-  "author": "liuxingyu521 <xuj_power@qq.com> (https://github.com/liuxingyu521)",
+  "author": "yiluxiangbei <1097692918@qq.com> (https://github.com/luomor-web)",
   "main": "index.js",
   "type": "module",
   "license": "MIT",

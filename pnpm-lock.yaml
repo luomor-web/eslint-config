@@ -8,7 +8,7 @@ importers:
 
   .:
     devDependencies:
-      '@liuxingyu521/eslint-config':
+      '@yiluxiangbei/eslint-config':
         specifier: workspace:*
         version: link:packages/main
       bumpp:
@@ -64,16 +64,16 @@ importers:
 
   packages/main:
     dependencies:
-      '@liuxingyu521/eslint-config-base':
+      '@yiluxiangbei/eslint-config-base':
         specifier: workspace:*
         version: link:../base
-      '@liuxingyu521/eslint-config-json':
+      '@yiluxiangbei/eslint-config-json':
         specifier: workspace:*
         version: link:../json
-      '@liuxingyu521/eslint-config-stylistic':
+      '@yiluxiangbei/eslint-config-stylistic':
         specifier: workspace:*
         version: link:../stylistic
-      '@liuxingyu521/eslint-config-ts':
+      '@yiluxiangbei/eslint-config-ts':
         specifier: workspace:*
         version: link:../typescript
     devDependencies:
