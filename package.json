@@ -1,16 +1,16 @@
 {
   "name": "@yiluxiangbei/eslint-config-monorepo",
-  "version": "2.0.1",
+  "version": "2.0.0",
   "author": "yiluxiangbei <1097692918@qq.com> (https://github.com/luomor-web)",
   "type": "module",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint ./test --fix",
-    "release": "npm release:check && npm release:version && npm release:publish",
-    "release:check": "npm lint:fix",
-    "release:version": "bumpp package.json packages/*/package.json --execute=\"npm changelog\" --all",
-    "release:publish": "npm publish -r --access public",
+    "release": "pnpm release:check && pnpm release:version && pnpm release:publish",
+    "release:check": "pnpm lint:fix",
+    "release:version": "bumpp package.json packages/*/package.json --execute=\"pnpm changelog\" --all",
+    "release:publish": "pnpm publish -r --access public",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
